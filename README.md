@@ -1,3 +1,6 @@
 # apparelRecommender
 
+
+Nowadays, people are constantly moving towards various fashion products as a result the e-commerce market for garments is growing rapidly. Online stores must update their features according to user requirements and preferences. However, there are too many options for users to select from these online stores which may leave them in a dilemma to identify the correct outfit, to save user time and to increase sales, efficient recommendation systems are becoming a necessity for online retailers. In this paper we proposed an Apparel Recommendation System that generates recommendations for users based on their input. We used a real world data set taken from the online market giant Amazon using Amazon’s Product Advertising API. We aim to use keywords like brand, color and size etc., to recommend. Data exploration to get a detailed information about our dataset, Data Cleaning(pre-processing) to remove invalid sections, Model selection (compared different feature extraction techniques like bag of words, TDF-IDF,word2vec model) to find out efficient technique and Deployment are different phases of this project.
+
 follow the link : https://gopi2krishna-apparelrecommender-streamlit-app-cdjpxn.streamlitapp.com/
